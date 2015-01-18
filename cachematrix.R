@@ -1,6 +1,7 @@
 # This file contains the functions:
 #       makeCacheMatrix - creates a matrix object that can cache its inverse
 #       cacheSolve      - computes the inverse of a matrix object returned by makeCacheMatrix
+# Code is based on the example supplied for this assignment
 # Last modified 18.1.15
 
 # This function creates a special "matrix" object that can cache its inverse.
